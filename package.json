@@ -1,0 +1,13 @@
+{
+  "name": "stop-that-shit-lite",
+  "version": "0.1.0",
+  "description": "Minimal Codex Hook + Skill for explicit task boundaries",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
